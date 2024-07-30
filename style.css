@@ -4,6 +4,13 @@ div {
     border: 3px solid black;
 }
 
+#p-div p {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+
 #img-div {
     display: none;
 }
