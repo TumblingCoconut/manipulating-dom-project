@@ -14,3 +14,7 @@ div {
 #img-div {
     display: none;
 }
+
+#img-div img{
+    width: 100px;
+}
